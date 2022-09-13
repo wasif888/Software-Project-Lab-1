@@ -139,7 +139,7 @@ form.sign-in-form {
   position: absolute;
   height: 2000px;
   width: 2000px;
-  top: -10%;
+  top: -5%;
   right: 40%;
   transform: translateY(-50%);
   background:#2E0079;
@@ -206,7 +206,7 @@ form.sign-in-form {
 
 .container.sign-up-mode:before {
   transform: translate(100%, -50%);
-  right: 52%;
+  right: 60%;
 }
 
 .container.sign-up-mode .left-panel .image,
